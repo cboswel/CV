@@ -68,5 +68,6 @@ Key achievements include:
 
 ### In2Science mentor (2025 - present)
 
-  I mentor an A-level student via video calls to advise skills to prioritise and
-  potential career paths.
+  In2Science is a charity helping disadvantaged groups explore careers in
+  science. I mentor an A-level student via video calls to advise skills to
+  prioritise and potential career paths.
