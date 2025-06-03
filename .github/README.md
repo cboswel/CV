@@ -1,9 +1,8 @@
-# CV Mockup
-
+# Charlie Boswell, Embedded Systems Engineer
 
 ## Employment History
 
-### Electronics and Computing Degree Apprentice at UKAEA (2020 - present)
+### Electronics and Computing Degree Apprentice at the UK Atomic Energy Authority (2020 - present)
 
  * Control and Data Acquisition department in nuclear fusion research
  * FPGA Development, C and C++, real-time software, control theory, Linux system
@@ -17,27 +16,26 @@ Key achievements include:
  * Assisting with innovation projects including bare-metal programming and 
    FPGA data acquisition at 10 Gb/s
  * Led over 100 tours of our facility for stakeholder, education and public
-   groups
+   groups. Helped at stalls at science festivals including New Scientist Live
+ * Mentored three GCSE work experience students directly for week long
+   placements
  * Lead a control system community group, organising events for around 30
-   engineers.
- * Ran Discord server for users of software we developed. Around 100 members.
+   engineers
+ * Ran Discord server for users of software we developed. Around 100 members
 
-
-### Teaching English as a second language in China (2017 - 2019)
+### Teacher of English as a second language at Northeast Yucai, China (2017 - 2019)
 
  * Taught classes of forty students, aged between eleven and fourteen with side
    classes for all ages
  * Created and delivered my own lesson plans, in English
  * Conversational Mandarin
-
-Key Achievements include
- * Building public speaking confidence and technique
- * Delivering lessons that engaged even reluctant students
+ * Built public speaking confidence and technique
+ * Created lessons that engaged even reluctant students
  * Improving mindful communication, awareness of audience 
 
 ## Education
 
-### Electronics and Computing Degree at University of West of England (BEng) 
+### BEng Electronics and Computing, University of West of England (2020 - 2025)
 
  * Dissertation title: FPGA Partial Reconfiguration for Universal Hardware
    Interfaces
@@ -49,23 +47,26 @@ Key Achievements include
  * Core modules in analogue circuits, control, embedded systems,
    power electronics, signal processing, systems engineering, FPGA development
 
-### Apprenticeship
+### Apprenticeship (2020 - 2025)
 
   Completion of the apprenticeship is a separate award granted by IET. It
   required proof that I have developed the attributes of an incorporated
   engineer as laid out by the UK Engineering Council
 
+### BSc Music Technology, Staffordshire University (2012 - 2015)
+
+  Sparked some interest in electronics in modules about microphone and speaker
+  design. When later studying electronics I found many parallels between audio
+  processing and signal processing
+
 ## Volunteering
 
 ### Assisted reading with ARCh (2024 - present)
 
-1 hour per week, I read and play games with two six year-olds to inspire a love
-of reading and to provide a space for one-on-one literacy practice.
+  I work with young children with reading difficulties to inspire a love of
+  reading and to provide a space for one-on-one literacy practice.
 
+### In2Science mentor
 
-Personal Profile (Just leaving here to copy into persie states)
-----------------
-
-I am an embedded systems engineer with 5 years of experience on projects
-featuring real-time control and data acquisition. I specialise in FPGA
-development with skills in C and C++, bare-metal programming, 
+  I mentor an A-level student via video calls to advise skills to prioritise and
+  potential career paths.
