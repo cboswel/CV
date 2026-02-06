@@ -14,11 +14,12 @@
 **MAST-U projects**
 
  * Led configuration and deployment of new D-TACQ data acquisition units in MAST-U PCS upgrade
- * Developing source table controller FPGA for double beam box power supplies
+ * Led and architected FPGA design for double beam box central controller
+ * Designed FPGA modules for Filament and Arc power supplies
 
 **LiBrTI Work**
 
- * I work as a part of the EC&I team, planning SCADA style, PLC driven control systems
+ * Planning SCADA style, PLC driven control systems as a part of the EC&I team
  * I am the control lead for a pincell test rig, controlling temperature in a pressure vessel.
 
 **Innovation Projects**

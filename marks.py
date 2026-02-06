@@ -20,7 +20,7 @@ def main():
             "PROFESSIONALISM FOR ENGINEERS": 74,
             "COMMUNICATIONS": 66,
             "CONTROL SYSTEMS DESIGN": 62.5,
-            "FINAL YEAR PROJECT": 70  # placeholder
+            "FINAL YEAR PROJECT": 70  # placeholder ooooh vim bindings
             }
     print(results.values())
     print(len(results))
